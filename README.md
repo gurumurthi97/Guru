@@ -7,17 +7,16 @@
 <a href="mailto:guru13041997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1Bao49eHCb25uuG_mN-WkP7OGist__ZrE/view"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
-<a href="https://dev.to/anurag5086"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-![Profile Views](https://komarev.com/ghpvc/?username=Anurag5086&style=flat-square)
+
 
 
 
 #### About Me ?
 
-- 🏫 I'm a Senior pursuing a Bachelor’s degree in Software Engineering from the Delhi Technological University, Delhi, India.
-- ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS, Rust & Blockchain(Solana) development.
-- ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow (Software Engineering Fellow) at [Solana](https://github.com/solana-labs)
-- 🔭 Worked with multiple organizations like ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
+- 🏫 I'm a Senior pursuing a Bachelor’s degree in Software Engineering from the BIT Institute of
+Technology,Hindupur,Anathapur,Andhra Pradesh India.
+- ⚡️ My expertise primarily revolves around JavaScript, Web Development,  Html,Css,Bootstrap development.
+- ⚡️ Currently Pursuing Course in AccioJob
 - ♥️ I love to contribute to open-source products.
 
 
@@ -26,11 +25,12 @@
 #### **Languages**:
 
 <img height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
+
+
 <img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/BootStrap-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+
 
 
 #### **Frameworks, Platforms and Libraries**:
