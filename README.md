@@ -31,7 +31,11 @@ Technology,Hindupur,Anathapur,Andhra Pradesh India.
 <img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
 
+<img height=25 src="https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB">&nbsp;&nbsp;
 
+
+
+<img height=25 src="https://img.shields.io/badge/Data-Structures and Algorithms-%23404d59.svg?style=for-the-badge&logo=Data-Structures and Algorithms&logoColor=%2361DAFB">&nbsp;&nbsp;
 
 
 #### **Frameworks, Platforms and Libraries**:
