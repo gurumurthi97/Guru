@@ -51,11 +51,9 @@ Technology,Hindupur,Anathapur,Andhra Pradesh India.
 
 #### **DevOps & Cloud Tools**:
 
-<img height=25 src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white">&nbsp;&nbsp;
+
 <img height=25 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img height=25 src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
+
 <img height=25 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
 
 
