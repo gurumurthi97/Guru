@@ -29,7 +29,7 @@ Technology,Hindupur,Anathapur,Andhra Pradesh India.
 
 <img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/BootStrap-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+
 
 
 
@@ -62,7 +62,7 @@ Technology,Hindupur,Anathapur,Andhra Pradesh India.
 
 ## 📈 Stats
 <p align="center">
-<a href="https://github.com/Anurag5086">
+<a href="https://github.com/gurumurthi97">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anurag5086&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anurag5086&layout=compact&langs_count=8&theme=algolia"/>
 </a>
