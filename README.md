@@ -13,9 +13,10 @@
 
 #### About Me ?
 
-- 🏫 I'm a Senior pursuing a Bachelor’s degree in Software Engineering from the BIT Institute of
+- 🏫 I'm a 
+Graduated in Bachelor’s degree in Computer Science Engineering from the BIT Institute of
 Technology,Hindupur,Anathapur,Andhra Pradesh India.
-- ⚡️ My expertise primarily revolves around JavaScript, Web Development,  Html,Css,Bootstrap development.
+- ⚡️ My expertise primarily revolves around JavaScript, Web Development,  Html,Css,Bootstrap ,Java, Data-Structures and Algorithms development.
 - ⚡️ Currently Pursuing Course in AccioJob
 - ♥️ I love to contribute to open-source products.
 
